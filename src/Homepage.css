@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #A231A2;
+    height: 80px;
+  }
+  
+  header{
+    background-image: url('background img.jpeg') !important;
+    height: 677px !important;
+    background-position: center; 
+    background-repeat: no-repeat;  
+    background-size: cover;
+  }
+  .navbar-items{
+   margin: 19px;
+   
+  }
